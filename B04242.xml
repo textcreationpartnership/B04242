@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact narrative and description of the wonderfull and stupendious fire-works in honour of Their Majesties coronations, and for the high entertainment of Their Majesties, the nobility, and city of London; made on the Thames, and perform'd to the admiration and amazement of the spectators, on April the 24, 1685.</title>
+            <author>Lowman, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04242</idno>
+            <idno type="OCLC"> 18471915</idno>
+            <idno type="STC">Wing L3321</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[47]</idno>
+            <idno type="STC">ESTC R39684</idno>
+            <idno type="EEBO-CITATION">99890549</idno>
+            <idno type="PROQUEST">ocm99890549</idno>
+            <idno type="VID">182438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182438)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact narrative and description of the wonderfull and stupendious fire-works in honour of Their Majesties coronations, and for the high entertainment of Their Majesties, the nobility, and city of London; made on the Thames, and perform'd to the admiration and amazement of the spectators, on April the 24, 1685.</title>
+                  <author>Lowman, R.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. Thompson at the entrance into the Old-Spring-Garden near Charing-Cross.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Written by R. Lowman.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Coronation --  Early works to 1800.</term>
+               <term>Fireworks --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:182438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>An Exact <hi>Narrative</hi> and <hi>Deſcription</hi> of the Wonder full and Stupendious <hi>Fire-works</hi> in Honour of Their Majeſties <hi>Corona<g ref="char:EOLhyphen"/>tions,</hi> and for the High Entertainment of Their Majeſties, the Nobi<g ref="char:EOLhyphen"/>lity, and City of <hi>London;</hi> made on the <hi>Thames,</hi> and perform'd to the Admiration and Amazement of the Spectators, on <hi>April</hi> the 24, 1685.</head>
+            <p>NEver was any thing with greater Expectation attended, and with more wonder and Applauſe perform'd, then were thoſe Miraculous and higheſt ſtrains of Art, the <hi>Coronation-Fire-works:</hi> It was pre-ſuppoſed indeed and concluded by the moſt, that nothing mean, indifferent, and eaſie would be exhibited on ſo Glorious an occaſion, and before ſo Royal an Aſſembly. But it was done be<g ref="char:EOLhyphen"/>yond all Thought, and it was ſcarce poſſible for the Fancy of any man that had not before ſeen of the kind, to form an <hi>Idaea</hi> of a thing at once ſo Dreadful and Delightful, or to believe that the Art of man could attain to ſo extraordinary a height and pitch of Perfection as was expreſſed in them; the weariſomneſs that the Fa<g ref="char:EOLhyphen"/>tigue of thoſe Glorious Proſſeſſions and ſtately Ceremonies of the <hi>Coronations</hi> had bred in their Majeſties, cauſed them to be deferr'd till the next Evening, which were deſigned with (as it were) the exacteſt Act of Magnificence to have clos'd the Grandeur of that Great day. Never ſeem'd Day-light ſo tedious, or Night ſo ſlow, as that for there were them that from Two took places, and ſat in expectation of what was not to be Acted till almoſt Ten. But between five and ſix <hi>London</hi> ſeem'd to have diſ-embogued and emptied its Inhabitants into the Boats and on the Shoars of <hi>Thames,</hi> the proſpect of <hi>Froſt Fair</hi> reviving in thoſe endleſs multitudes that crowded and covered it. The Tyde was out, which hapened well for the Rable, of whom many elſe would have been drown'd by Accidental ſlips and preſs of the People, which now were only Dirtyed: <hi>Squibs, Roskets, Serpents,</hi> and what elſe of <hi>Fire-works</hi> the Boys and Rable could reach to, were the Divertiſement and Dread of the People, till the long wiſh'd hour arrived. At length between Nine and Ten their Majeſties, with a Numerous Train of Nobility, came into the Galleries of <hi>Whitehall,</hi> juſt againſt which, about the middle of <hi>Thames,</hi> lay the Principaleſt part of the <hi>Fire-works,</hi> and ſtraight in a line beyond, near the further Shoar, lay the other ſmalleſt part of them; the Figure and manner of them as they ſtood before they were Fired, was thus, two large and long Lighters were joyn'd together, and made ſteady and firm with Planks and Anchors upon them, at about ten yards diſtance from each other, on them were erected two Pyramidical Pillars covered on the ſides next <hi>Whitehall</hi> with bright <hi>Latten 'Plates,</hi> fill'd all and ſtuffed with <hi>Fire-works;</hi> between theſe two Pyramids, near their tops, was placed a Figure of the <hi>Sun,</hi> of bright and well poliſhed <hi>Braſs,</hi> next below which hung a great <hi>Croſs,</hi> and beneath that a <hi>Crown,</hi> all ſtufft with <hi>Fire-works.</hi> A little wide of which, and ſomething before the Pyramids, were plac'd the Statues of the two Gyants of <hi>Guild-hall,</hi> in lively Colours and Proportions facing <hi>Whitehall,</hi> the backs of which were all fill'd with <hi>Firey-Materials,</hi> as well as the Hallows and va<g ref="char:EOLhyphen"/>cant ſpaces of the Lighters. This was the manner and Figure of the Principaleſt part of the <hi>Fire-works,</hi> which lay in the middle of <hi>Thames</hi> before they were Fired. The other ſmaller part of them near the further Shoar, was only one Lighter, in which ſtood five Beacons as it were; theſe were ſcarce known or regarded before they were Fired. No ſooner was their Majeſties come into the Galleries of <hi>White<g ref="char:EOLhyphen"/>hall,</hi> but loud Acclamations of Joy proclaim'd their Arrival, which Rowling and Re-Ecchoing from both Shoars, almoſt from <hi>London-Bridge</hi> to <hi>Lambeth,</hi> helped to give an eſtimate of that wonderful Multitude and Confluence of People to the Ear, which Night and Darkneſs had refuſed to the Eye. Scarce were the redoubled Shouts of Joy ended, and a general Silence through the Earneſtneſs of Expecta<g ref="char:EOLhyphen"/>tion and Intentiveneſs of what was preſently to ſucceed made; but from the prin<g ref="char:EOLhyphen"/>paleſt
+<pb n="2" facs="tcp:182438:2"/>
+               <!-- PDF PAGE 11 -->part of the <hi>Fire-works</hi> in the midſt of the <hi>Thames,</hi> with a Horrid Impe<g ref="char:EOLhyphen"/>tuoſity and Noiſe, above being able to be parallel'd by the beating of a Prodigious Wind on a Thick Grove of Trees, or by Cataracts and Falls of mighty Waters: <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>upendious Torrent of Fire, conſiſting of many hundred Globulous forms of Fie<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> matter, to the wonderful Aſtoniſhment and Dread of the Spectators, broke Perpendicularly upward, and roſe to ſo aſtoniſhing a height, that by reaſon of the convexity of the Horiſon, like a <hi>Summers Sun</hi> growing to Noon, though they roſe perpendicularly upward, they ſeem'd to over-hang and threaten all. <hi>Lord have Mercy upon us,</hi> was then the cry of all that had not ſeen of the kind; even the ſtouteſt men knew not what to think of ſo dreadful a Deluge of <hi>Fire;</hi> but their Surpriſe was increas'd when with the noiſe of Voleys of Muſquets Shot thoſe new Meteors broke into a ſhower of ten thoſands of <hi>Stars,</hi> and with a Brightneſs that return'd the Day, ſeem'd to be falling on all their Heads; but by an exact propor<g ref="char:EOLhyphen"/>tion and moſt Critical and Judicious weighing of the Strength and Duration of the Matter by thoſe Maſter Artiſts that made them, when to the higheſt pitch they had rais'd the General fear they were extinct. It was really a wonderful effort of Art, and ſeem'd to equal thoſe Natural Prodigies of <hi>Etna</hi> and <hi>Veſuvius,</hi> with the Happy addi<g ref="char:EOLhyphen"/>tional Cheapneſs of bating of their ruines and deſolation. Art it ſeems ſo regulating and wiſely husbanding the Materials, as to yield a better Pennyworth of Wonder in affording it without ſuch dear Devaſtations as thoſe of Nature are uſually accom<g ref="char:EOLhyphen"/>panied with. This firſt Scene of Wonder was followed by divers Iſſues and Salleys of the ſame and different matter; and from the firſt break of the Deluge, till the end of the Sport, which laſted near an hour, the two <hi>Gyants,</hi> the <hi>Crown,</hi> the <hi>Croſs</hi> and the <hi>Sun,</hi> grew all in a light Flame in the Figures deſcrib'd, and burnt without abatement of matter, which was no mean maſter-piece of Art, till the whole Scene was finiſh'd. From the other part of the <hi>Fire-works</hi> alſo, where ſtood five Bea<g ref="char:EOLhyphen"/>cons, burning with the ſame continuance of Flame and Matter; were ſhot out of Granadoes mighty <hi>Balls</hi> of <hi>Fire,</hi> which mounting up into the Air a Prodigious height, with the noiſe of a great Gun, breaking into a thouſand ſmaller Balls of <hi>Fire,</hi> which flying croſs one another, and breaking again with the Reports as it were of many Muſquets, fill'd all the Air with noiſe and flame. The <hi>Granadoes</hi> threw up alſo <hi>Balls of Fire</hi> of another kind, which breaking with the noiſe of a Cannon, at firſt divided it ſelf into ſo amazingly bright Bodies of <hi>Fire</hi> that they gave a Light for a Minuits ſpace over the <hi>Thames,</hi> and even over all <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and parts adjoyning, as bright as the Noon-days <hi>Sun</hi> doth, theſe ſorts were re<g ref="char:EOLhyphen"/>iterated ſeveral times, to the wonder and content, but not Satiety of the Be<g ref="char:EOLhyphen"/>holders, the Rable being not to be ſatisfied with ſo rare a ſight. When as the laſt and concluding piece of Art from the principal parts of the <hi>Fire-works</hi> into the <hi>Thames,</hi> between them and <hi>Whitehall</hi> ſlope ways gave whole Broadſides of <hi>Fire-works</hi> of ſo particularly ſtrange a Nature, as contrary to the nature of <hi>Fire,</hi> with<g ref="char:EOLhyphen"/>out extinction or abatement of Flame, burnt in the Water they fell into, leap'd up and down in it, and by intermingling their Flames with the Water, and fre<g ref="char:EOLhyphen"/>quently croſſing themſelves by the Hiſſing, Convulſions and flying of the Water, hating its enemies preſence, and to be out-brav'd by what it us'd to conquor; it yielded one of the ſtrangeſt and pleaſanteſt Antick Scenes that mans Heart could co<g ref="char:EOLhyphen"/>ver, or his Eyes enjoy. There was this remarkable property in the <hi>Fire-works,</hi> that were the principal part, and lay in the midſt of the <hi>Thames;</hi> that where as the o<g ref="char:EOLhyphen"/>ther were ſhot out of <hi>Granadoes,</hi> theſe roſe to ſo ſtupendious a height, and per<g ref="char:EOLhyphen"/>formed all by their own innate Virtue and Strength, which argued an exactneſs of Art in their compoſition. The Maſter Artiſts that made them were two <hi>High-Ger<g ref="char:EOLhyphen"/>man Operators,</hi> to whom His Majeſty allows three Hundred Pounds <hi>per Annum,</hi> P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſion to encourage their Art: To whom alſo the Evening was kind, in being v<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Calm, and ſeem'd to reward their Art with a ſeaſonable opportunity of per<g ref="char:EOLhyphen"/>formance; which was done indeed with ſuch Excellence, that they roſe to ſo Pro<g ref="char:EOLhyphen"/>digious a pitch as to be ſeen, and broak with ſuch loud noiſe as to be heard, and ſhin'd with ſo bright a Luſter as to give Day in and through all the Streets of <hi>London.</hi>
+            </p>
+            <byline>Written by <hi>R. Lowman.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed by</hi> N. Thompton <hi>at the Entrance into the</hi> Old-Spring-Garden <hi>near</hi> Charing-Croſs. 1685</p>
+         </div>
+      </back>
+   </text>
+</TEI>
